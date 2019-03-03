@@ -1,0 +1,10 @@
+/*.log
+/target
+/*-init.clj
+/resources/public/js/compiled
+out
+*.iml
+.lein-failures
+.lein-repl-history
+.nrepl-port
+.rebel_readline_history
